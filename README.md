@@ -16,4 +16,4 @@ This is a simple client-side web app that allows users to track how much time ha
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/pay-rate-timer.git
+   git clone https://github.com/mreedthing/moneymade.git
