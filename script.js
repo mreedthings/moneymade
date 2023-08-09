@@ -1,3 +1,7 @@
+// Clear local storage on initial page load
+localStorage.removeItem('elapsedTime');
+localStorage.removeItem('earnedMoney');
+
 let startTime;
 let timerInterval;
 let payRate;
